@@ -1,2 +1,2 @@
 # Download
-[Download ExE](https://ouomen.ir/templates/sa-mp-website/)
+[Download ExE](https://github.com/MOBiNoUo/SAMP-installer/releases)
